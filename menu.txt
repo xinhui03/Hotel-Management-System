@@ -1,0 +1,10 @@
+C01 ConnectingRoom 150
+C02 Connecting_Room_With_Breakfast 200
+D01 DeluxeRoom 400
+D02 Deluxe_Room_With_Breakfast 450
+J01 JuniorSuite 500
+J02 Junior_Suite_With_Breakfast 550
+P01 PremiumRoom 120
+P02 Premium_Room_With_Breakfast 170
+S01 StandardRoom 80
+S02 Standard_Room_With_Breakfast 130
